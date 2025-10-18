@@ -2,7 +2,8 @@
 <div id="header">
   <img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGJ4b3ltOGY1aHkxem0xcG1wdjE1Nm9saHFwZng0amQ4NHJxaDkyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/unxCGmTuBvwo2djRLA/giphy.gif" width="300"/>
 
-🎓 <b>I am a Program Engineering student of Far Eastern Federal Universuty (Graduate 2024)<br>
+🎓 Bachelor's degree graduate of Software Engineering in Far Eastern Federal Universuty<br>
+🎓 Masters degree student Software Engineering of Far Eastern Federal Universuty<br>
 🧠 I have a passion for problem solving and learning new technologies.<br>
 👨‍🏫 INO СPE «Yandex EdTech» Assistent <br>
 👨‍🏫 Teacher in HSC FEFU<br>
